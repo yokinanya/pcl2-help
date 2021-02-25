@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Plain Craft Launcher 2 帮助站</title>
+  
+  
+  <link href="https://pcl2-help.gitee.io/atom.xml" rel="self"/>
+  
+  <link href="https://pcl2-help.gitee.io/"/>
+  <updated>2021-02-25T08:46:54.249Z</updated>
+  <id>https://pcl2-help.gitee.io/</id>
+  
+  <author>
+    <name>PCL2群友们</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>必看</title>
+    <link href="https://pcl2-help.gitee.io/post/b468abc5.html"/>
+    <id>https://pcl2-help.gitee.io/post/b468abc5.html</id>
+    <published>2021-02-25T08:46:54.249Z</published>
+    <updated>2021-02-25T08:46:54.249Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这里是pcl2帮助站,由于最初站点被恶意攻击，导致服务器被迫停止。<br>所以这是个解决方案….</p><p>目前正在迁移当中可能会出现图片加载不出来问题，搜索功能解决!<br>还有部分地方不完善见谅QWQ</p><p>目前正在收集回声洞，欢迎来帮忙QWQ!~~~~</p><span id="more"></span><p>由于本页面托管于Gitee，并且由Coding提供构建服务。</p><p>👇欢迎加入编写！👇</p><p><a href="https://gitee.com/pcl2-help">仓库地址</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;这里是pcl2帮助站,由于最初站点被恶意攻击，导致服务器被迫停止。&lt;br&gt;所以这是个解决方案….&lt;/p&gt;
+&lt;p&gt;目前正在迁移当中可能会出现图片加载不出来问题，搜索功能解决!&lt;br&gt;还有部分地方不完善见谅QWQ&lt;/p&gt;
+&lt;p&gt;目前正在收集回声洞，欢迎来帮忙QWQ!~~~~&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>新年快乐！！！</title>
+    <link href="https://pcl2-help.gitee.io/post/360c981c.html"/>
+    <id>https://pcl2-help.gitee.io/post/360c981c.html</id>
+    <published>2021-02-11T16:00:00.000Z</published>
+    <updated>2021-02-25T08:46:54.249Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>#新年快乐！！！！！！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>？6我怎么玩下载好了的地图呢（地图加载）</title>
+    <link href="https://pcl2-help.gitee.io/post/af09ff8e.html"/>
+    <id>https://pcl2-help.gitee.io/post/af09ff8e.html</id>
+    <published>2021-02-08T03:36:12.000Z</published>
+    <updated>2021-02-25T08:46:54.249Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>首先你可以前往 <a href="http://www.mcbbs.net/">点我前往MCBBS</a> 下载地图。<br>随后你可以获得一个 地图.zip<br><strong>注：请关注你下载的地图是否带有资源包，以及地图使用的游戏版本也注意下</strong></p><p>打开游戏文件夹 .minecraft-saves （如果你开了版本隔离，路径为下：.minecraft-versions-你的游戏版本名字（例如1.15.2-OptiFine_G6等）-saves)<br><img src="https://s3.ax1x.com/2021/02/08/yUEJER.png" loading="lazy"></p><blockquote><p>这是正常路径</p></blockquote><p><img src="https://s3.ax1x.com/2021/02/08/yUEc5t.png" loading="lazy"></p><blockquote><p>这是开了版本隔离的路径</p></blockquote><p>将下载压缩包解压进去（注：如果没有自动创建文件夹需要手动创建个文件夹，别零零散散的文件全部解压到一个saves下）<br><img src="https://s3.ax1x.com/2021/02/08/yUV3z8.png" loading="lazy"></p><blockquote><p>正确示范</p></blockquote><p><img src="https://s3.ax1x.com/2021/02/08/yUVNZj.png" loading="lazy"></p><blockquote><p>错误示范</p></blockquote><p>然后我们打开mc就能看见地图了<br><img src="https://s3.ax1x.com/2021/02/08/yUVfF1.png" loading="lazy"></p><p><strong>注：假设地图内含有resources，此为材质包，因为这个文件在地图内，所以“主机”会自动加载，如果这是一个多人地图，作者没提供另外的材质包，你就需要把这个发给你朋友。否则可能会出现一些剧情游戏没有声音或者一些贴图没法加载！</strong><br><img src="https://s3.ax1x.com/2021/02/08/yUVXFI.png" loading="lazy"></p><blockquote><p>resources主机会自动加载，给朋友需要让朋友丢到材质包文件夹（.minecraft-resourcepacks)</p></blockquote><p><strong>如何联机游玩地图请搜索联机</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>#43正版账号迁移至微软账号下问题</title>
+    <link href="https://pcl2-help.gitee.io/post/bbd11f5f.html"/>
+    <id>https://pcl2-help.gitee.io/post/bbd11f5f.html</id>
+    <published>2020-12-29T07:54:25.000Z</published>
+    <updated>2021-02-25T08:46:54.249Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="https://help.minecraft.net/hc/en-us/articles/360050865492-Minecraft-Java-Edition-Account-Migration-FAQ">点我前往minecraft文章</a></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/12/66939B87-94E1-4E3C-90A3-3974D687E1CB-473x1024.png" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>#42 我可以在群里/公开地方 发我的识别码吗</title>
+    <link href="https://pcl2-help.gitee.io/post/6d3380a.html"/>
+    <id>https://pcl2-help.gitee.io/post/6d3380a.html</id>
+    <published>2020-11-22T23:23:35.000Z</published>
+    <updated>2021-02-25T08:46:54.249Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>当然可以 识别码是为了那里兑换主题的，但是这仅仅是为了lm拿识别码来生成解锁码从而解锁新主题，还有就是群里.jrrp 【你的识别码】，目前就这两个用处</p><p>识别码被别人拿去也不会怎么样，因为识别码只有在（<a href="https://pcl2-help.gitee.io/125.pcl2%EF%BC%89%E6%83%85%E5%86%B5%E4%B8%8B%E6%89%8D%E2%80%9C%E6%94%B9%E5%8F%98%E2%80%9D%EF%BC%8C%E8%80%8C%E8%AF%86%E5%88%AB%E7%A0%81%E6%AD%A3%E5%B8%B8%E6%83%85%E5%86%B5%E6%97%A0%E6%B3%95%E2%80%9C%E4%BF%AE%E6%94%B9%E2%80%9D%E3%80%82%E5%A4%A7%E5%8F%AF%E6%94%BE%E5%BF%83">https://pcl2-help.gitee.io/125.pcl2）情况下才“改变”，而识别码正常情况无法“修改”。大可放心</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>#41 我如何获得一个代理服务器（即木棍）？</title>
+    <link href="https://pcl2-help.gitee.io/post/194cfb0a.html"/>
+    <id>https://pcl2-help.gitee.io/post/194cfb0a.html</id>
+    <published>2020-11-21T13:18:35.000Z</published>
+    <updated>2021-02-25T08:46:54.249Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>⚠️因为代理滥用，所以改成审核制度！⚠️</strong></p><p><strong>⚠️警告⚠️（免责声明）</strong></p><p><strong>本网站不会对于进行下列操作后所引发的后果所承担责任！请酌情使用本文章中的任何操作！</strong></p><p><strong><em>由于本代理为热心网友提供，并且刻意把受众人群定为PCL2群内的各位，所以不能发给别人啦，还请各位多多理解！</em></strong></p><p><strong>如对免责声明有疑惑请点下方按钮了解：</strong></p><p><a href="https://baike.baidu.com/item/%E9%98%B2%E7%81%AB%E5%A2%99/52767?fr=kg_general">“防火墙”</a></p><p><a href="https://baike.baidu.com/item/%E7%BF%BB%E5%A2%99?timestamp=1607327743319">“翻*”</a></p><p>** 以下内容为Windows 10用户准备 **</p><p>在Windows 10的开始菜单左下角，有一个代表设置的小齿轮，即</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/11/9KA5QC51XP39SMGT5M1.png" loading="lazy"></p><p>在上方的”查找设置”输入框输入”代理”二字，然后在弹出的下拉菜单中选择”代理服务器设置”</p><p>翻下去一点，你会看到一个”手动设置代理”</p><p>打开”使用代理服务器”选项</p><p>请找Timicasto获取链接地址和端口</p><p>然后点击保存即可。</p><p>** 以下内容为Windows 7用户准备</p><p>// 由于我手头没有Windows 7系统 所以无法提供截图 请见谅</p><p>在开始菜单右侧选择”控制面板”，然后选择”网络和Internet”，然后进入”网络和共享中心”</p><p>点击左下角的Internet选项，在弹出窗口的顶端选择”连接”，点击下面的”局域网设置”，在弹出窗口的代理服务器一栏选择”为LAN使用代理服务器”</p><p>地址填入 : <strong>请寻找Timicasto获取</strong></p><p>端口输入 ：<strong>请寻找Timicasto获取</strong></p><p>确定即可使用.</p><p>** 以下内容为Linux内核用户准备 **</p><p>// 由于是纯指令操作 同样不提供截图</p><p>编辑/etc/profile，添加如下内容保存即可</p><p>http_proxy=<strong>请寻找Timicasto获取</strong><br>https_proxy=<strong>请寻找Timicasto获取</strong><br>ftp_proxy=<strong>请寻找Timicasto获取</strong><br>export http_proxy https_proxy ftp_proxy</p><p>以上就是设置代理的全部方法，如果代理出现问题或无法使用。<br>#获取代理请联系<a href="mailto:&#x74;&#105;&#x6d;&#x69;&#x63;&#97;&#115;&#x74;&#111;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;">&#x74;&#105;&#x6d;&#x69;&#x63;&#97;&#115;&#x74;&#111;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;</a> 或 Discord Timicasto#4543</p><p><a href="http://2704ba23.123nat.com:12000/proxyping.php">获取代理服务器延迟</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>#40 我该如何选择java呢</title>
+    <link href="https://pcl2-help.gitee.io/post/c0e52c9c.html"/>
+    <id>https://pcl2-help.gitee.io/post/c0e52c9c.html</id>
+    <published>2020-11-08T01:59:28.000Z</published>
+    <updated>2021-02-25T08:46:54.249Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>java 8</strong>（<a href="https://pcl2-help.gitee.io/149.pcl2%EF%BC%89">https://pcl2-help.gitee.io/149.pcl2）</a></p><p>一个标准的适合mc的java，<strong>极其推荐用这个！</strong>不管是玩整合包还是玩纯净这个问题很小。</p><p><strong>注</strong>：java8_51为<strong>官启</strong>提供java，本可以启动mc，但是有人用来启动整合包会导致崩溃，所以请<strong>及时更新</strong>java！</p><p><strong>Openj9</strong>（<a href="https://www.mcbbs.net/thread-847020-1-1.html%EF%BC%89">https://www.mcbbs.net/thread-847020-1-1.html）</a></p><p>一个适合<strong>玩纯净以及轻量整合包</strong>的java，在玩原版时使用此java可提升fps以及减少内存占用。整合包同理，轻量整合包指mod在100左右的，并且此java启动整合包可能会导致崩溃，当游戏崩溃时请优先怀疑openj9。</p><p><strong>注：部分作者会在界面下方标注推荐使用openj9，此时很建议使用这个，因为fps和内存占用会好很多。（当然这还是因机器而异，有的机器可能是负优化）</strong></p><p><strong>Java 14/16</strong>（<a href="https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html%EF%BC%89">https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html）</a></p><p>不是很推荐这个java，能玩高版本，<strong>很很很很很很很很很不建议用来启动整合包</strong>，会 崩 掉！本java启动1.15.2以上纯净游戏fps可能会提高，以及内存占用更小，<strong>本java不适合启动低于1.15.2的版本！！！用java14/16可能会让游戏更不稳定！</strong></p><p><strong>注：fps提升和内存减少同样因机器而异，部分机子提升很明显，但是也有机子是负优化，再说一次，别用来开1.15.2以下版本</strong></p><p><strong>PS：不建议给人家推java14或者jdk或者openj9，这玩意还不成熟，一堆人给小白推荐这，导致崩溃了开始找启动器麻烦！你要做的是劝解别人推荐这些java，java8才是适合mc的java，更稳定更兼容。</strong></p><blockquote><p>有些时候看到别人给小白推荐jdk14 我真想锤他</p><p>龙猫</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>#39 为什么微云沙箱显示PCL2有“钩子”或报毒</title>
+    <link href="https://pcl2-help.gitee.io/post/343d7e2a.html"/>
+    <id>https://pcl2-help.gitee.io/post/343d7e2a.html</id>
+    <published>2020-11-05T10:29:21.000Z</published>
+    <updated>2021-02-25T08:46:54.245Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>之前 PCL2 老版本被沙箱报毒</p><p>你猜都猜不到为啥</p><p>沙箱没有 .net framework 4.5</p><p>PCL2 就打开了 .net framework 4.5 的下载页面</p><p>这个下载页面呢是用 IE 打开的</p><p>IE 更新了系统驱动</p><p>IE 是 PCL2 打开的</p><p>更新系统驱动是危险操作</p><p>所以 PCL2 是病毒</p><p>真！棒！</p><p>此外 PCL2 哪里用了系统钩子呢</p><p>修 改 M C 窗 口 标 题</p><p>如果用钩子就是病毒那真是抱歉.jpg</p><p>龙猫</p></blockquote><p><strong><em>所以事实证明这玩意没毒</em></strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>番外！ PCL群特色之P图带师</title>
+    <link href="https://pcl2-help.gitee.io/post/266230f6.html"/>
+    <id>https://pcl2-help.gitee.io/post/266230f6.html</id>
+    <published>2020-10-28T12:08:12.000Z</published>
+    <updated>2021-02-25T08:46:54.249Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>多图预警！！</strong></p><p>投稿请找（？）</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/DGV0WGO73_4IVH3SUB.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/D16G3ML@1A3YK_6@H.png" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/UML4PJDLDCRVS5WSL-1024x366.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/WMLV227RRZ7L1OGZITM-1024x595.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/JQP17ND4ZC8NZ9_6Y4A.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/HF7DEAQRYUZP2PDK.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/11/O0YIU9GMY@TK2BCF95Y-1024x641.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/11/MMQK_1@GT1V3BOGVWG@S.png" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/11/F_HF1CL@ETNH892P61F0V-1024x664.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/12/VB9_2HY_17UF0JMQ4137-1.png" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/12/%E6%97%A0%E6%B0%B4%E5%8D%B0-1024x576.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/12/86E62082-125B-4909-9A85-8BBE2D0BEA96-497x1024.png" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2021/01/4B3B3446-97D2-4BC6-9EF6-D229812E338C-1024x968.jpeg" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>番外！ PCL群特色之消防员的工作（雾）</title>
+    <link href="https://pcl2-help.gitee.io/post/505b4bce.html"/>
+    <id>https://pcl2-help.gitee.io/post/505b4bce.html</id>
+    <published>2020-10-28T12:03:21.000Z</published>
+    <updated>2021-02-25T08:46:54.249Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>消防员大队：</strong></p><p><strong>多图预警！！</strong></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/0.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/0-1.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/0-2.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/0-3.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/0-4.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/0-5.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/0-6.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/0-7.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/0-8.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/HLDI6OHSNOUYHADQRUY.png" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>#38 CurseForge的整合包怎么下载下来（xxx.zip)</title>
+    <link href="https://pcl2-help.gitee.io/post/f51cd3aa.html"/>
+    <id>https://pcl2-help.gitee.io/post/f51cd3aa.html</id>
+    <published>2020-10-24T05:50:32.000Z</published>
+    <updated>2021-02-25T08:46:54.245Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>进curseforge可能需要木棍，下载也可能需要！</strong></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/2WRPTFJDIPV8Q6OXSPV.png" loading="lazy"></p><p>打开浏览器-输入<a href="http://www.curseforge.com-进入网站/">www.curseforge.com-进入网站</a></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/JHI86LT1S95C9GHNN62-1024x506.png" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/T5EG09EGUOINMRKR0U-1024x502.png" loading="lazy"></p><p>下载RLCraft-点击紫字</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/5RYCNISAC2X2QO9S3Q05Y-1024x502.png" loading="lazy"></p><p>点击File</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/GY26M593PLDA_FDYQCX-1024x497.png" loading="lazy"></p><p>点击<a href="https://www.curseforge.com/minecraft/modpacks/rlcraft/files/2935316">RLCraft 1.12.2 - Beta v2.8.2.zip</a>，也就是紫色的字</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/7@35OI3P8_R1Y19Z2-1024x487.png" loading="lazy"></p><p>点击 <a href="https://www.curseforge.com/minecraft/modpacks/rlcraft/download/2935316">Download</a></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/F3BSYW3DX2DXWRO_GR065-1024x488.png" loading="lazy"></p><p>等待4秒后自动下载，如果没反应点击紫色click字体</p><p><strong>下载缓慢请用木棍</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>#37 我打开mc进地图/创建地图过程中无响应了怎么办</title>
+    <link href="https://pcl2-help.gitee.io/post/7ffb8f50.html"/>
+    <id>https://pcl2-help.gitee.io/post/7ffb8f50.html</id>
+    <published>2020-10-03T04:04:33.000Z</published>
+    <updated>2021-02-25T08:46:54.245Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>MC 会在进地图的时候在主线程下载皮肤，连不上服务器就卡死，离线登录单人也会下载。</p><p>除非你让它请求直接失败，或者卡着的时候多戳几下，Windows 可能有还原程序的选项，那玩意儿实际上就是 Windows 发现它是网络请求卡了，然后把所有网络请求全部暴力打死。</p><p>龙猫带来的解释.png</p></blockquote><p><strong>解决办法</strong></p><p>1：尝试疯狂点mc，点到他弹出java停止响应，选择“尝试还原此程序”，然后等个几十秒他就能正常进。</p><p>2：尝试直接把网线或者 右下角任务栏右键网络，选择“打开‘网络和Internet’设置”，下拉选择“网络和共享中心 ”，在弹出来的控制面板左上角方向有个“更改适配器设置”，右键你的网卡，选择禁用，等地图加载出来启用即可。</p><p>3（2?）:直接拔网线，等进地图了插回去（原理和2是一样的）。</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/8T_4Q9EE1SYR68@S46.png" loading="lazy"></p><p>如果你是wifi的话这个图标应该是一个Wifi图标</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/KK5G60X4LVX_ZQG.png" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/HMHR@@WSKQMF9LNAQ4-1024x574.png" loading="lazy"></p><p>这边我是双网卡可能会显示两个，如果你也是，下一步请两个网卡一起禁用</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/BRJ4G0W6C2JAV8Q9108M-1024x576.png" loading="lazy"></p><p>请禁用你已经连接上了的网卡，等待mc地图加载成功后即可启用网卡</p><p>网线是啥样子的</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/POY2_PGE0GHJ1DZ7T5.png" loading="lazy"></p><p>插网线的口是这样的</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/D9CVALMUIEFC4FNMD7ZE5.png" loading="lazy"></p><p>拔网线时按下顶部的塑料片拉出即可（不要大力出奇迹）部分笔记本网线口插入是反过来的，请注意也是有这弹片的《不要大力出奇迹》</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/%E6%9C%AA%E6%A0%87%E9%A2%98-1-631x1024.png" loading="lazy"></p><p>这就是特殊插法，弹片在背面</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>$1   PCL2显示登陆失败怎么办</title>
+    <link href="https://pcl2-help.gitee.io/post/559194da.html"/>
+    <id>https://pcl2-help.gitee.io/post/559194da.html</id>
+    <published>2020-10-03T03:30:39.000Z</published>
+    <updated>2021-02-25T08:46:54.245Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>登陆失败：连接登陆服务器超时</p><p>请检查你的网络状况是否良好，或尝试使用VPN！</p></blockquote><p>遇到这个情况请至 <strong>群文件</strong> 下载 <strong>临时解决正版登录失败</strong></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/10/6MIGL1WN_EM0U0SIW-1024x285.png" loading="lazy"></p><p>如果遇到更改完Hosts后无法进入服务器问题 请切换其他Hosts</p><p>当然使用加速器或者VPN也可以解决无法登录正版的问题</p><p>注意 1.4.7有可能导致正版无法启动mc 尝试更换1.4.6</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>☆☆感谢名单☆☆| PCL2|BGM|感谢|</title>
+    <link href="https://pcl2-help.gitee.io/post/72dbe91f.html"/>
+    <id>https://pcl2-help.gitee.io/post/72dbe91f.html</id>
+    <published>2020-09-29T14:49:45.000Z</published>
+    <updated>2021-02-25T08:46:54.249Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>☆☆感谢名单☆☆</p><p><strong>☆PCL2感谢名单☆（无前后顺序）</strong></p><p><strong>龙腾猫跃 - PCL，PCL2制作人</strong></p><p><strong>Minecraft中文论坛 - 提供BMCLAPI(MCBBS）镜像源</strong></p><p><strong>bangbang93 - 提供BMCLAPI镜像源和Forge安装工具</strong></p><p><strong>TS Studio - 提供TSS镜像源</strong></p><p><strong>DoodleHuang - 提供部分难找Minecraft版本以及技术支持</strong></p><p><strong>Patrick - PCL2 Logo设计制作人</strong></p><p><strong>Hao_Tian - 提供众多诡异Bug</strong></p><p><strong>PCL2 内测群的各位 - 感谢支持=w=！</strong></p><p><strong>☆PCL2.org感谢名单☆（无前后顺序）（此地只提供id）</strong></p><p><strong>Goo_Gu_Jiang - 提供网站技术支持以及服务器</strong></p><p><strong>ZH9c418 - 提供网站域名以及技术支持</strong></p><p><strong>Timicasto - 提供网站日常维护以及技术支持</strong></p><p><strong>Kirito666233 - 提供网站内问题编写以及日常维护</strong></p><p><strong>kaizellovo - 提供网站内问题编写以及日常维护</strong></p><p><strong>PCL2 内测群的各位 - 提供部分问题的反馈=w=！</strong></p><p><strong>☆PCL2群内 大 人 物 （？）感谢名单☆（无前后顺序）</strong></p><p><strong>龙腾猫跃 - PCL群的群主</strong></p><p><strong>Stapx Steve - 万年不冒泡的 群 管 理</strong></p><p><strong>Endless_World - “我下次再也不这样了”（下次还敢） 群 管 理</strong></p><p><strong>Tony32 - 万年不冒泡的 群 管 理</strong></p><p><strong>L_Ac - 棺 里 员 （迫真）群 管 理</strong></p><p><strong>玄素 - 玄即黑，素即白 群 管 理</strong></p><p><strong>00ll00 - 整天制造罗伯特的bug（大雾） 群 管 理</strong></p><p><strong>HHIIMM - H——i——m 群 管 理</strong></p><p><strong>PCL2 内测群的各位 - 感谢支持=w=！</strong></p><p><strong>罗伯特 - 误入，24岁（？），事博士，精通99%种语言以及展示国际友好手势</strong></p><p>如有问题，请在此页评论留言</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>#36 我赞助了12档的，我想用上最新的PCL想升级23档或54档的怎么办</title>
+    <link href="https://pcl2-help.gitee.io/post/1d9e1d57.html"/>
+    <id>https://pcl2-help.gitee.io/post/1d9e1d57.html</id>
+    <published>2020-08-21T12:33:58.000Z</published>
+    <updated>2021-02-25T08:46:54.245Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>爱发电的赞助是累计赞助的哦，如果你赞助了12档想升级23档只需要支付</p><p>23.33 - 12.34 元即可，54档的和23档原理是一样的</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/08/XM_O1ZSUO16ISQKI_L7-1024x607.png" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>#35 我在使用mod的时候游戏崩溃了，pcl显示游戏崩溃了</title>
+    <link href="https://pcl2-help.gitee.io/post/b024f209.html"/>
+    <id>https://pcl2-help.gitee.io/post/b024f209.html</id>
+    <published>2020-08-13T14:05:09.000Z</published>
+    <updated>2021-02-25T08:46:54.245Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>游戏里炸了多半和pcl2没关系（暴风哭泣）</p><p>龙猫</p></blockquote><p>那确实，99%的游戏内崩溃都和PCL2没关系((((((</p><p>或许你可以去PCL2群发下崩溃日志</p><p>记得直接发zip或者txt，如果单发就成 刷 屏</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/07/6b0f761c71279f55.jpg" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>#34 如果我在群里刷屏迫害群友会怎么样</title>
+    <link href="https://pcl2-help.gitee.io/post/da5a96ae.html"/>
+    <id>https://pcl2-help.gitee.io/post/da5a96ae.html</id>
+    <published>2020-08-13T13:51:16.000Z</published>
+    <updated>2021-02-25T08:46:54.245Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>或许你需要了解啥是夹子？</p><p>[</p><p>点 我 了 解 夹 子</p><p>](<a href="https://pcl2-help.gitee.io/305.pcl2">https://pcl2-help.gitee.io/305.pcl2</a>)</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/08/DPLDK2CA1QC55RGJN1N.jpg" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/08/3JY7@4D2TSVF2@RO889L8.jpg" loading="lazy"></p><p>联系群内管理可领取限量版夹子（免费续杯…?）（没事请不要找夹子）</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>#33 Mojang发布了新版本，我PCL2里面没有最新版本怎么办</title>
+    <link href="https://pcl2-help.gitee.io/post/f738f76b.html"/>
+    <id>https://pcl2-help.gitee.io/post/f738f76b.html</id>
+    <published>2020-08-13T13:15:49.000Z</published>
+    <updated>2021-02-25T08:46:54.245Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>一般情况是镜像源的问题，更换镜像源即可</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/08/VZ8DC_0TARIORO8Y4-1024x488.png" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>#32 机器人有时无法使用“帮助”怎么办</title>
+    <link href="https://pcl2-help.gitee.io/post/77c9fec0.html"/>
+    <id>https://pcl2-help.gitee.io/post/77c9fec0.html</id>
+    <published>2020-08-13T12:38:59.000Z</published>
+    <updated>2021-02-25T08:46:54.245Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>网络波动[[File:育碧土豆.png60px]]</p><p>（服务器/域名 所有者跑路）（编写文章者气到删文章）</p><p>（数据库日常爆炸）</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>?5 如何安装/找到  材质包/光影？</title>
+    <link href="https://pcl2-help.gitee.io/post/256efb95.html"/>
+    <id>https://pcl2-help.gitee.io/post/256efb95.html</id>
+    <published>2020-08-08T13:29:34.000Z</published>
+    <updated>2021-02-25T08:46:54.249Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>下载途径：</p><p>MCBBS：<a href="http://www.mcbbs.net/">www.mcbbs.net</a></p><p>Curseforge：<a href="http://www.curseforge.com/">www.curseforge.com</a></p><p>以及各大作者自己的网站</p><p>如何使用：（材质包）</p><p>打开.minecraft/resourcepacks。将材质包扔进去（注：部分材质包里面套娃了，可能在.zip里面还有个文件夹，那个才是本体，材质包必须是.zip后缀，压缩和解压出来都是可以的）</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/08/XFHPV3@CZXQU@MOY6B27.png" loading="lazy"></p><p>材质包最基础的三个文件（记得这三个文件要在一个大文件夹里面）</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/08/2VA3JVV9WLV@2S928NZGM.png" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/08/WS8W0SZ5456IIHU@I9FF.png" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/08/53DACFHT5M22CPCGYGC-1.png" loading="lazy"></p><p>如何使用：（光影）</p><p>要使用光影请先下载Optifine！</p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/08/2VA3JVV9WLV@2S928NZGM-1.png" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/08/4JP3RB4Q8OTL4D64WEL-1.png" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/08/CFCUMRL0FJO1W515NFL.png" loading="lazy"></p><p><img src="https://pcl2-help.gitee.io/wp-content/uploads/2020/08/2IWRO_3N6M@2GQVKP6-2.png" loading="lazy"></p><p>ps：光影包分压缩和文件夹</p><p>感谢WTP016提供此文章的文案</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://pcl2-help.gitee.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+</feed>

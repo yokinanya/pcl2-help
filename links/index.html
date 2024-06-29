@@ -23,7 +23,7 @@ function sendPageView() {
 document.addEventListener("pjax:success", sendPageView);</script><meta name="description" content="贡献的小可爱们">
 <meta property="og:type" content="website">
 <meta property="og:title" content="贡献的小可爱们">
-<meta property="og:url" content="https://pcl2-help.gitee.io/links/index.html">
+<meta property="og:url" content="https://pcl2-help.vercel.app/links/index.html">
 <meta property="og:site_name" content="Plain Craft Launcher 2 帮助站">
 <meta property="og:description" content="贡献的小可爱们">
 <meta property="og:locale" content="zh_CN">
@@ -37,7 +37,7 @@ document.addEventListener("pjax:success", sendPageView);</script><meta name="des
     placeholder: ""
   },
   async beforeCreate() {
-    this.links = await fetch("https://pcl2-help.gitee.io/links.json")
+    this.links = await fetch("https://pcl2-help.vercel.app/links.json")
       .then(res => {
         return res.json()
       })
